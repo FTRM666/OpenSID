@@ -11,7 +11,7 @@
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <div class="footer_bottom_right">
-		   &copy; <a href="https://opendesa.id/" rel="noopener noreferrer" target="_blank">OpenDesa</a>
+		   &copy; <a href="https://opendesa.id/" rel="noopener noreferrer" target="_blank">SICXSOULJA</a>
 		   <i class="fa fa-circle" style="font-size: smaller;"></i>
 		   <a href="https://github.com/OpenSID/OpenSID" rel="noopener noreferrer" target="_blank">OpenSID <?= AmbilVersi()?></a>
 		   <a href="<?= site_url(); ?>siteman" rel="noopener noreferrer" target="_blank"> | Natra 4.3</a>
